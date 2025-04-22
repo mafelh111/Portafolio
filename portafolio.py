@@ -65,10 +65,3 @@ st.plotly_chart(fig_pie)
 
 st.dataframe(df_portafolio)
 
-# --- Conclusiones ---
-st.header("Conclusiones")
-st.write("En resumen, el portafolio optimizado...")
-
-# --- Contacto ---
-st.header("Contacto")
-st.write("Puedes contactarme en...")
