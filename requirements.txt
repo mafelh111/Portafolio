@@ -7,4 +7,6 @@ scipy
 streamlit
 matplotlib
 statsmodels
-pandas_datareader
+pandas_datareader==0.10.0
+setuptools>=65.0.0
+
